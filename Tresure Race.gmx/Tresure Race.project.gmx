@@ -36,6 +36,12 @@
       <sprite>sprites\D4</sprite>
       <sprite>sprites\D5</sprite>
       <sprite>sprites\D6</sprite>
+      <sprite>sprites\D_1</sprite>
+      <sprite>sprites\D_2</sprite>
+      <sprite>sprites\D_3</sprite>
+      <sprite>sprites\D_4</sprite>
+      <sprite>sprites\D_5</sprite>
+      <sprite>sprites\D_6</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -71,10 +77,17 @@
       <object>objects\D4_O</object>
       <object>objects\D5_O</object>
       <object>objects\D6_O</object>
+      <object>objects\D_1_O</object>
+      <object>objects\D_2_O</object>
+      <object>objects\D_3_O</object>
+      <object>objects\D_4_O</object>
+      <object>objects\D_5_O</object>
+      <object>objects\D_6_O</object>
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Menu</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
