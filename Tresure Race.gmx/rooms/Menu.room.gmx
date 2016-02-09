@@ -886,6 +886,7 @@
     <instance objName="Sand_O" x="448" y="256" name="inst_699C8894" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sand_O" x="480" y="256" name="inst_FC139371" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Sand_O" x="512" y="256" name="inst_51E4F8CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Instruccions1" x="480" y="320" name="inst_2911C003" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

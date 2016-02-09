@@ -87,6 +87,7 @@
     <objects name="Text">
       <object>objects\Victory</object>
       <object>objects\LOSER</object>
+      <object>objects\Instruccions1</object>
     </objects>
   </objects>
   <rooms name="rooms">
