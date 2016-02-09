@@ -84,6 +84,10 @@
       <object>objects\D_5_O</object>
       <object>objects\D_6_O</object>
     </objects>
+    <objects name="Text">
+      <object>objects\Victory</object>
+      <object>objects\LOSER</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
