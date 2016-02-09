@@ -87,7 +87,9 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
-    <room>rooms\room1</room>
+    <room>rooms\Board</room>
+    <room>rooms\You_Are_Rich</room>
+    <room>rooms\You_Are_Poor</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
