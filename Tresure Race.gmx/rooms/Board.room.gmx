@@ -829,8 +829,9 @@
     <instance objName="Water_O" x="768" y="416" name="inst_29A1800A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Water_O" x="800" y="416" name="inst_0ECD56A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Water_O" x="832" y="416" name="inst_49339D98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Map_O" x="1024" y="288" name="inst_61AB7945" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Tresure_O" x="1024" y="192" name="inst_6ABAC1C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Map_O" x="1056" y="256" name="inst_61AB7945" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Tresure_O" x="1056" y="288" name="inst_6ABAC1C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="RDice_O" x="864" y="608" name="inst_09F05869" locked="0" code="" scaleX="4" scaleY="4" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="448" y="352" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_EAC62924" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
