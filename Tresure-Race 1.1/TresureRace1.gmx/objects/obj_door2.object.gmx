@@ -27,7 +27,11 @@
             <kind>1</kind>
             <string>if (global.keys ==5)
  {
- room_goto(room1)
+ room_goto(Winner);
+ }
+ else
+ {
+ room_goto(Loser);
  }
 </string>
           </argument>

@@ -27,6 +27,11 @@
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font_title</font>
+    <font>fonts\font_instructions</font>
+    <font>fonts\font_cheat</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_key1</object>
     <object>objects\obj_key2</object>
@@ -44,10 +49,14 @@
       <object>objects\obj_slash</object>
     </objects>
     <object>objects\obj_chest</object>
+    <object>objects\obj_restart</object>
+    <object>objects\obj_instruction</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Instruction</room>
     <room>rooms\Game</room>
     <room>rooms\Winner</room>
+    <room>rooms\Loser</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

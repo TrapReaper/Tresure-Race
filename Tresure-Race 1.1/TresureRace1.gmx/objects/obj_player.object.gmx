@@ -74,10 +74,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>motion_add(270,4);
-if (speed&gt;=4)
+            <string>motion_add(270,8);
+if (speed&gt;=8)
  {
-  speed = 4;
+  speed = 8;
  }
 </string>
           </argument>
@@ -101,10 +101,10 @@ if (speed&gt;=4)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>motion_add(0,4);
-if (speed&gt;=4)
+            <string>motion_add(0,8);
+if (speed&gt;=8)
  {
-  speed = 4;
+  speed = 8;
  }
 </string>
           </argument>
@@ -128,10 +128,10 @@ if (speed&gt;=4)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>motion_add(90,4);
-if (speed&gt;=4)
+            <string>motion_add(90,8);
+if (speed&gt;=8)
  {
-  speed = 4;
+  speed = 8;
  }
 </string>
           </argument>
@@ -155,10 +155,10 @@ if (speed&gt;=4)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>motion_add(180,4);
-if (speed&gt;=4)
+            <string>motion_add(180,8);
+if (speed&gt;=8)
  {
-  speed = 4;
+  speed = 8;
  }
 </string>
           </argument>
